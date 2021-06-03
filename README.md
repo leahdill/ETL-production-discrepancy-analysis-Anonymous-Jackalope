@@ -1,6 +1,6 @@
 # ETL-Project-Anonymous-Jackalope
 
-In this project, our purpose was to find datasets to extract, load, and transform into universally usable datasets
+For this project, our purpose was to find datasets to extract, load, and transform into universally usable datasets
 for further analysis. The goal was to utilize processes that could be easily replicated and implemented by any
 future data scientists that may need to access the data.
 
