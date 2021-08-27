@@ -11,7 +11,7 @@ climate of that time period.
 
 We read our csv's into Pandas in order to concatenate our meter documents into one universal dictionary. We then pared
 down the columns in our SCADA, PRAMS, and gas prices documents, and we renamed the headers for easier readibility once 
-we loaded to our SQL database. We then created a connection from Pandas to postgres, and tested that connection before
+we loaded to our SQL database. We then created a connection from Jupyter Notebook to PostgreSQL, and tested that connection before
 moving forward.
 
 We developed an ERD for creating tables and relating our datasets, and we got to work in pgAdmin loading our new Pandas 
